@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SeriesPointsSorting/Form1.cs) (VB: [Form1.vb](./VB/SeriesPointsSorting/Form1.vb))
+<!-- default file list end -->
 # How to: Sort series points within a series
 
 
